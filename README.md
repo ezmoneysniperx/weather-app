@@ -11,7 +11,7 @@
 
 ## Project Preview
 
-![PREVIEW APP](https://raw.githubusercontent.com/ezmoneysniperx/campfinder/main/campfinder.gif)
+![PREVIEW APP](https://raw.githubusercontent.com/ezmoneysniperx/weather-app/main/preview.gif)
 
 ## Built With
 
